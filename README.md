@@ -9,7 +9,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/Polamet Wanree" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="polamet wanree" height="30" width="40" /></a>
+  Facebook : Polamet Wanree
 <a href="https://instagram.com/pug_plm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pug_plm" height="30" width="40" /></a>
+  Instagram : pug_plm
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
