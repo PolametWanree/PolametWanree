@@ -5,6 +5,7 @@
 - KU81 IT17 Faculty of Liberal Art & Science Kasetsart University Information Technology
 
 💬 I am seeking a Application Developer and UX/UI Intern Position
+My UX/UI design : https://www.figma.com/design/xerFTDc4bldekvtNmShjew/UX%2FUI-Design?t=R4rbITcIdjBEa2gh-1
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
